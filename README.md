@@ -1,9 +1,9 @@
 in lab6tasks folder inside src folder:
-+TASK 1 - Employee.java
-+TASK 2 - Person.java
-+TASK 3 - PermanentEmployee.java
-+TASK 4 - Account.java
-+TASK 5 - Animal.java
+1. TASK 1 - Employee.java
+2. TASK 2 - Person.java
+3. TASK 3 - PermanentEmployee.java
+4. TASK 4 - Account.java
+5. TASK 5 - Animal.java
 
 Q1. A company wants to design a simple employee management system.
 1. There is a Parent class called Employee.
